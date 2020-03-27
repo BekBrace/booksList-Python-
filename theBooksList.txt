@@ -1,0 +1,4 @@
+IT,Stephen king,750
+crime and punishment,Dosteovsky,800
+Finders Keepers,Stephen King,500
+the duma key,Stephen King,850
